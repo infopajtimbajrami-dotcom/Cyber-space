@@ -1,0 +1,6 @@
+{
+  "name": "Simulatore di Buchi Neri",
+  "description": "Un laboratorio astrofisico interattivo per comprendere la relatività generale, simulare il disco di accrescimento di Kerr e visualizzare la lente gravitazionale in tempo reale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
